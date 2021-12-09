@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LearnKotlinGoogle</string>
+    <string name="with_google">With Google</string>
+    <string name="learning_kotlin">Learning Kotlin</string>
+</resources>
